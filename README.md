@@ -35,30 +35,33 @@ This project provides a comprehensive analysis of Spotify tracks, focusing on va
 
 The dataset used in this project contains various attributes related to tracks on Spotify, including but not limited to:
 
-- `artist`: Name of the artist
-- `track`: Name of the track
-- `album`: Name of the album
-- `album_type`: Type of the album (e.g., album, single)
-- `danceability`: Danceability score of the track
-- `energy`: Energy score of the track
-- `loudness`: Loudness of the track in decibels
-- `speechiness`: Speechiness score of the track
-- `acousticness`: Acousticness score of the track
-- `instrumentalness`: Instrumentalness score of the track
-- `liveness`: Liveness score of the track
-- `valence`: Valence score of the track
-- `tempo`: Tempo of the track in beats per minute
-- `duration_min`: Duration of the track in minutes
-- `title`: Title of the track
-- `channel`: Channel through which the track is streamed
-- `views`: Number of views
-- `likes`: Number of likes
-- `comments`: Number of comments
-- `licensed`: License status of the track (boolean)
-- `official_video`: Whether the track has an official video (boolean)
-- `stream`: Number of streams
-- `energy_liveness`: Energy-to-liveness ratio
-- `most_played_on`: Platform where the track is most played (e.g., Spotify, YouTube)
+| Column Name       | Description                                                          |
+|-------------------|----------------------------------------------------------------------|
+| **artist**        | Name of the artist                                                  |
+| **track**         | Name of the track                                                   |
+| **album**         | Name of the album                                                   |
+| **album_type**    | Type of the album (e.g., album, single)                           |
+| **danceability**  | Danceability score of the track                                     |
+| **energy**        | Energy score of the track                                           |
+| **loudness**      | Loudness of the track in decibels                                   |
+| **speechiness**   | Speechiness score of the track                                      |
+| **acousticness**  | Acousticness score of the track                                     |
+| **instrumentalness** | Instrumentalness score of the track                               |
+| **liveness**      | Liveness score of the track                                         |
+| **valence**       | Valence score of the track                                          |
+| **tempo**         | Tempo of the track in beats per minute                             |
+| **duration_min**  | Duration of the track in minutes                                    |
+| **title**         | Title of the track                                                  |
+| **channel**       | Channel through which the track is streamed                        |
+| **views**         | Number of views                                                     |
+| **likes**         | Number of likes                                                     |
+| **comments**      | Number of comments                                                  |
+| **licensed**      | License status of the track (boolean)                               |
+| **official_video** | Whether the track has an official video (boolean)                 |
+| **stream**        | Number of streams                                                   |
+| **energy_liveness** | Energy-to-liveness ratio                                          |
+| **most_played_on**| Platform where the track is most played (e.g., Spotify, YouTube)  |
+
 
 ## Data Exploration
 
