@@ -17,7 +17,8 @@ This project provides a comprehensive analysis of Spotify tracks, focusing on va
 - [Data Analysis](#data-analysis)
 - [SQL Queries](#sql-queries)
 - [Conclusion](#conclusion)
-- [License](#license)
+- [Query Optimization Technique](#Query-Optimization-Technique)
+
 
 ## Technologies
 
